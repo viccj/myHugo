@@ -1,17 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Vic New Hugo Site</title>
-        <link>http://example.org/</link>
-        <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 17 Jun 2023 15:49:30 &#43;0800</lastBuildDate>
-            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>RTTTTttttttttt</title>
-    <link>http://example.org/posts/test/</link>
-    <pubDate>Sat, 17 Jun 2023 15:49:30 &#43;0800</pubDate>
-    <author>vic</author>
-    <guid>http://example.org/posts/test/</guid>
-    <description><![CDATA[hahahahaha]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geekdocs</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Geekdocs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 17 Jun 2023 15:49:30 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RTTTTttttttttt</title>
+      <link>http://example.org/posts/test/</link>
+      <pubDate>Sat, 17 Jun 2023 15:49:30 +0800</pubDate>
+      
+      <guid>http://example.org/posts/test/</guid>
+      <description>hahahahaha</description>
+    </item>
+    
+  </channel>
 </rss>
