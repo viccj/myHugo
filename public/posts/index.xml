@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Vic New Hugo Site</title>
+        <link>http://example.org/posts/</link>
+        <description>All Posts | Vic New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 17 Jun 2023 15:49:30 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>RTTTTttttttttt</title>
+    <link>http://example.org/posts/test/</link>
+    <pubDate>Sat, 17 Jun 2023 15:49:30 &#43;0800</pubDate>
+    <author>vic</author>
+    <guid>http://example.org/posts/test/</guid>
+    <description><![CDATA[hahahahaha]]></description>
+</item>
+</channel>
+</rss>
